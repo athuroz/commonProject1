@@ -1,3 +1,6 @@
 command1
 command2
+feature1:
+f1_cmd1
+f1_cmd2
 command3
